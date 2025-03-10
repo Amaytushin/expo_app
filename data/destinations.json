@@ -1,19 +1,19 @@
 [
   {
     "id": "1",
-    "name": "Tropical Paradise Resort",
-    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Rose<3",
+    "image": "https://i.pinimg.com/736x/47/84/9e/47849ed4070624d1621b445765cd166c.jpg",
     "description": "Escape to the ultimate tropical paradise retreat with pristine beaches, lush greenery, and luxurious accommodations.",
     "rating": 4.8,
     "price": "150",
     "duration": "3",
-    "location": "Pacific Ocean",
+    "location": "On Amay's Heart",
     "category": "Beaches"
   },
   {
     "id": "2",
-    "name": "Alpine Chalet Retreat",
-    "image": "https://images.unsplash.com/photo-1512273222628-4daea6e55abb?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Sooyaaa<3",
+    "image": "https://i.pinimg.com/736x/5d/f7/44/5df7449d0403ea3aff39430fd53c1f6f.jpg",
     "description": "Experience the breathtaking beauty of the Alps from your cozy chalet, surrounded by snow-capped peaks and charming villages.",
     "rating": 4.5,
     "price": "120",
@@ -23,8 +23,8 @@
   },
   {
     "id": "3",
-    "name": "Urban Explorer's Dream",
-    "image": "https://images.unsplash.com/photo-1546436836-07a91091f160?q=80&w=3548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Lisa<3",
+    "image": "https://i.pinimg.com/736x/25/27/ed/2527ed0b1e7352f98887e82827c046fa.jpg",
     "description": "Immerse yourself in the vibrant energy of the city with bustling streets, iconic landmarks, and endless cultural experiences.",
     "rating": 4.7,
     "price": "140",
@@ -34,8 +34,8 @@
   },
   {
     "id": "4",
-    "name": "Enchanted Forest Retreat",
-    "image": "https://plus.unsplash.com/premium_photo-1668917805105-2d5d9e49af87?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Jennie<3",
+    "image": "https://i.pinimg.com/736x/c7/9f/5e/c79f5e162acedd16bbb1c39873777aaa.jpg",
     "description": "Find serenity in the heart of nature with towering trees, hidden waterfalls, and enchanting wildlife in this magical forest retreat.",
     "rating": 4.6,
     "price": "180",

@@ -31,10 +31,9 @@ const IMG_HEIGHT = 300;
 
 const ListingDetails = () => {
   const { id } = useLocalSearchParams();
-  const listing: ListingType = (listingData as ListingType[]).find(
+  const : ListingType = (listingData as ListingType[]).find(
     (item) => item.id === id
-  );
-
+  )listing;
   const router = useRouter();
 
   const scrollRef = useAnimatedRef<Animated.ScrollView>();
